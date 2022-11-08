@@ -73,4 +73,6 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-Added from git Ganeshpondy
+Point:
+Artifact will be save into the NFS-Server
+

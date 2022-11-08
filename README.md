@@ -74,5 +74,5 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 Point:
-Artifact will be save into the NFS-Server
+Artifact will be save into the NFS-Server.
 
